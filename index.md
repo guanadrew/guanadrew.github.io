@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
+title: home
 ---
 
-# Welcome
-This is my first Jekyll site with no theme at all.
+# Home
+Index test.
