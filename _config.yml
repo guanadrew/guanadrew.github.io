@@ -3,5 +3,6 @@
 # Custom config
 url: ""
 title: "Drew Cohen"
+resume: "assets/pdfs/RESUME_09_12_2025.pdf"
 copyright: "Andrew H. Cohen"
 markdown: "kramdown"
