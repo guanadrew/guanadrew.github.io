@@ -4,4 +4,4 @@ title: projects
 ---
 
 # Projects
-Projects test.
+Coming soon.

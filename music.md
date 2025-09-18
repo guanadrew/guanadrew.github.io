@@ -4,4 +4,4 @@ title: music
 ---
 
 # Music
-Music test.
+Coming soon.
