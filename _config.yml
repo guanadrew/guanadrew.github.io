@@ -3,4 +3,5 @@
 # Custom config
 url: ""
 title: "Drew Cohen"
-description: "Learning Jekyll without a theme."
+copyright: "Andrew H. Cohen"
+markdown: "kramdown"
