@@ -7,12 +7,17 @@ title: home
      style="float:left; width:500px; height:500px; margin:0 1rem 1.5rem 1rem;" 
      alt="Drew Cohen" />
 
+
 ## Hey! I'm Drew.
 
 Welcome to my site – a place to share myself, personally and professionally.
 Thanks for stopping by!
 
 
+<div style="margin-top: 3rem;"></div>
+
+### Contact:
+drew.h.cohen@comcast.net 
 
 
 
