@@ -7,7 +7,7 @@ title: projects
 
 I've done a lot of projects over my engineering education, some good, some unmentionable. Here's a choice list, with links if you'd like to learn more.
 
-### eDrum Pedal – In Progress
+### eDrum Pedal – In Progress (no link)
 
 With a lot of time on my hands and a big new sound system, I hope to perform some cool 
 DSP on an Arduino and send it through the speakers with the UDA1334a DAC.
