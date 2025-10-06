@@ -9,6 +9,10 @@ Hi, Windborne! My name is Drew Cohen, and this is my job application for Firmwar
 
 ### 1. A cool thing I've built – MIDI Air Hockey
 
+<img src="{{ '/assets/images/midi-table.JPG' | relative_url }}" 
+     style="float:left; width:500px; height:500px; margin:0 1rem 1.5rem 1rem;" 
+     alt="MIDI Table" />
+
 The most experience I have both designing PCBs and writing firmware is for music projects. MIDI Air Hockey was part of a challenge in the Tufts Music Dept. to turn a competitive game into a MIDI controller. Using an Arduino Mega, nRF52840 BLE chip, MIDI breakout adapter, and a ton of sensors, a MechE friend and I created a fully-functioning air hockey table from scratch. Particularly difficult/unusual: integrating intense mechanical requirements (airtight, physical gameplay) with precise sensing and creative data generation.
 
 ### 2. Niche microcontroller feature
@@ -21,8 +25,8 @@ Another music project (on this website's 'projects', the Drum Hero game). I was 
 
 ### 4. Randomly resetting PCB?!
 
-In my experience, random resets are usually physical connectivity/power integrity related. So I would check if power cord is loose, the soldering on supply rails or even decoupling capacitors, make sure everything is solid. Then I could check the MCU status registers which likely contain reset flags, confirming it's actually a reset (at this point, set up both a power and status register log to check for consistency w/ resets). From there, firmware issues, I'd check areas where state is changing and memory is accessed because it's unlikely to find faults anywhere else.
+In my experience, random resets are usually physical connectivity/power integrity related. So I would check if power cord is loose, if the soldering on supply rails or even decoupling capacitors looks good. Then I could check the MCU status registers which likely contain reset flags, confirming it's actually a reset (at this point, set up both a power and status register log to check for consistency w/ resets). From there, firmware issues, I'd check areas where state is changing and memory is accessed because it's unlikely to find faults anywhere else.
 
 ### 5. Why I am particularly awesome
 
-I am as solid an EE graduate as one could ask for on embedded design and firmware, but my true specialty lies in my diversity of thought and experimentation. I genuinely enjoy and am most experienced in the lab, forming and destroying brief hypotheses drawn from optics, acoustics, or classic literature. The team and the work at Windborne seem best fit to those who can quickly learn new science, from material physics to meteorology.I am very young—–honestly, I would need mentorship to singlehandedly own the entirety of your libraries, drivers, and custom RTOS. But I would get there, and beyond. I would love to chat further about the work at Windborne.
+I am a very solid EE graduate on embedded design and firmware, but my true specialty lies in my diversity of thought and experimentation. I genuinely enjoy and am most experienced in the lab, forming and destroying brief hypotheses drawn from optics, acoustics, or classic literature. The team and the work at Windborne seem best fit to those who can quickly learn new science, from material physics to meteorology. I am very young—honestly, I would need some mentorship to singlehandedly own the entirety of your libraries, drivers, and custom RTOS. But I would get there, and beyond. I would love to chat further about the work at Windborne.
