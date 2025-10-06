@@ -10,10 +10,14 @@ Hi, Windborne! My name is Drew Cohen, and this is my job application for Firmwar
 ### 1. A cool thing I've built – MIDI Air Hockey
 
 <img src="{{ '/assets/images/midi-table.JPG' | relative_url }}" 
-     style="float:left; width:500px; height:500px; margin:0 1rem 1.5rem 1rem;" 
+     style="float:left; width:300px; height:300px; margin:0 1rem 1.5rem 1rem;" 
      alt="MIDI Table" />
 
+<br/>
+
 The most experience I have both designing PCBs and writing firmware is for music projects. MIDI Air Hockey was part of a challenge in the Tufts Music Dept. to turn a competitive game into a MIDI controller. Using an Arduino Mega, nRF52840 BLE chip, MIDI breakout adapter, and a ton of sensors, a MechE friend and I created a fully-functioning air hockey table from scratch. Particularly difficult/unusual: integrating intense mechanical requirements (airtight, physical gameplay) with precise sensing and creative data generation.
+
+<br/><br/>
 
 ### 2. Niche microcontroller feature
 
