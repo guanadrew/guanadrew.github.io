@@ -6,6 +6,7 @@ plugins:
 url: "https://drewcohen.me"
 baseurl: ""
 title: "Drew Cohen"
+description: "Personal website of Drew Cohen, Tufts-trained electrical engineer with photonics and acoustics focus."
 resume: "assets/pdfs/Resume-02-10-2025.pdf"
 copyright: "Andrew H. Cohen"
 markdown: "kramdown"

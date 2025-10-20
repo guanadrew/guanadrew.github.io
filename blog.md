@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+description: "Blog page for Drew Cohen, Electrical Engineering graduate from Tufts University with photonics and acoustics interests."
 ---
 
 # Blog

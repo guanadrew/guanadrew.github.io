@@ -1,6 +1,7 @@
 ---
 layout: default
 title: projects
+description: "Learn more about the projects of Drew Cohen, Electrical Engineering graduate from Tufts University with photonics and acoustics interests."
 ---
 
 # Projects
