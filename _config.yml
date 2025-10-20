@@ -1,7 +1,10 @@
 # Jeykll Config
+plugins:
+  - jekyll-sitemap
 
 # Custom config
-url: ""
+url: "https://drewcohen.me"
+baseurl: ""
 title: "Drew Cohen"
 resume: "assets/pdfs/Resume-02-10-2025.pdf"
 copyright: "Andrew H. Cohen"
